@@ -1,1 +1,2 @@
 # intelligent_medicine_delivery_trolley
+该项目用于NUC-A413实验室电赛小小队存放训练2021电赛F题智能送药小车时的相关文件
