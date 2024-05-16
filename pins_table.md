@@ -12,6 +12,8 @@
 |                     | R1         | PA15     |
 |                     | R2         | PA12     |
 | 红外模块            | DO         | PB0      |
+| 视觉模块 OpenMV     | RXD        | PA9      |
+|                     | TXD        | PA10     |
 | 蓝牙模块 HC-05      | RXD        | PA2      |
 |                     | TXD        | PA3      |
 | 发声模块 蜂鸣器     | DI         | PA1      |
@@ -19,9 +21,9 @@
 |                     | LED2（右） | PA5      |
 | 显示模块 OLED       | SCL        | PB6      |
 |                     | SDA        | PB7      |
-| 电机驱动模块 TB6612 | AIN1       |  PB15        |
-|                     | AIN2       |  PA8        |
-|                     | PWNA       | PB9         |
-|                     | BIN1       | PA11         |
-|                     | BIN2       | PA9         |
-|                     | PWMB       | PB8         |
+| 电机驱动模块 TB6612 | AIN1       | PB15     |
+|                     | AIN2       | PA8      |
+|                     | PWNA       | PB9      |
+|                     | BIN1       | PA11     |
+|                     | BIN2       | PB14     |
+|                     | PWMB       | PB8      |
