@@ -59,6 +59,10 @@ void Error_Handler(void);
 /* Private defines -----------------------------------------------------------*/
 #define Buzz_Pin GPIO_PIN_1
 #define Buzz_GPIO_Port GPIOA
+#define BT_TX_Pin GPIO_PIN_2
+#define BT_TX_GPIO_Port GPIOA
+#define BT_RX_Pin GPIO_PIN_3
+#define BT_RX_GPIO_Port GPIOA
 #define LED1_Pin GPIO_PIN_4
 #define LED1_GPIO_Port GPIOA
 #define LED2_Pin GPIO_PIN_5
